@@ -58,7 +58,7 @@ class _ChatScreenState extends State<ChatScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Chat with Gemini'),
+        title: const Text('Chat with AI..'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
