@@ -1,3 +1,4 @@
+import 'package:chat_bot/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'chat_screen.dart';
 
@@ -21,7 +22,7 @@ class GenerativeAISample extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: const ChatScreen(),
+      home: const SplashScreen(),
     );
   }
 }
