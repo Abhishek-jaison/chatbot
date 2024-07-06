@@ -1,5 +1,7 @@
 # chat_bot
 
+<img src='https://github.com/Abhishek-jaison/chatbot/assets/128037906/36a8e877-731d-4972-8099-30e645bf0727' width='400'  height='800'>
+
 A new Flutter project.
 
 ## Getting Started
